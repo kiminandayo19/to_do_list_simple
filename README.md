@@ -1,16 +1,6 @@
-# simple_to_do_list
+Simple To Do List App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This is a very simple to do list app
+- builted using flutter
+- using provider to handle dark mode settings
+- including add items using alert box, and dismiss all the current to do list
